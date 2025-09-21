@@ -1,11 +1,11 @@
 
-# 💫 Hi 👋, I'm Abdurezak Kemal
+#  Hi, I'm Abdurezak Kemal
 **A passionate Software Engineer
 
-Email Me 👉 ✉️ **abdrezakkemal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 😄 **Pronouns:** he / him
+Email Me 👉 ✉️ **abdrezakkemal@gmail.com** For Collaboration/Project or Anything Else. 
+- **Pronouns:** he / him
 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me## 
+-  **Fun fact:** I Love Tech and Tech Love Me## 
 
 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdrezakkemal@gmail.com) 
